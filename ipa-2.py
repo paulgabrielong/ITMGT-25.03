@@ -40,7 +40,6 @@ def shift_letter(letter, shift):
     
     try:
         alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-        letter=letter.upper()
 
         if letter==" ":
             return " "
